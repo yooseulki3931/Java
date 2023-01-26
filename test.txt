@@ -1,2 +1,0 @@
-github hello
-깃허브에서 수정함
